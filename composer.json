@@ -1,0 +1,17 @@
+{
+    "name": "tenteedev4/wordpressreact",
+    "description": "Un plugin utilisant react Js",
+    "type": "wordpress-plugin",
+    "autoload": {
+        "psr-4": {
+            "Tenteedev4\\Wordpressreact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Leonel Kenfack",
+            "email": "leonel.kenfack@tenteeglobal.com"
+        }
+    ],
+    "require": {}
+}

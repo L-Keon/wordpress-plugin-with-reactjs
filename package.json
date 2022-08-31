@@ -1,0 +1,24 @@
+{
+  "name": "wordpressreact",
+  "version": "1.0.0",
+  "description": "Un plugin wordpress utilisant react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "wp-scripts build",
+    "start": "wp-scripts start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/L-Keon/wordpress-plugin-with-reactjs.git"
+  },
+  "author": "Leonel Kenfack",
+  "license": "MIT",
+  "devDependencies": {
+    "@wordpress/scripts": "^22.5.0"
+  },
+  "bugs": {
+    "url": "https://github.com/L-Keon/wordpress-plugin-with-reactjs/issues"
+  },
+  "homepage": "https://github.com/L-Keon/wordpress-plugin-with-reactjs#readme"
+}
